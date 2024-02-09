@@ -1,0 +1,6 @@
+go 1.22.0
+
+use (
+	./CS2-API-Interactions
+	./booking-app
+)
